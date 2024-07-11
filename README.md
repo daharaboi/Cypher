@@ -36,7 +36,7 @@ To set up and run the Cypher project, follow these steps:
 
 1. **Clone the Repository**: Clone the project repository to your local machine.
     ```sh
-    git clone <repository-url>
+    git clone <https://github.com/daharaboi/Cypher>
     ```
 
 2. **Navigate to the Directory**: Use the `cd` command to navigate to the `cypher` directory:
@@ -44,12 +44,7 @@ To set up and run the Cypher project, follow these steps:
     cd path/to/cypher
     ```
 
-3. **Install Dependencies**: Install the required Python packages using pip:
-    ```sh
-    pip install -r requirements.txt
-    ```
-
-4. **Run the Script**: Execute the main script to start the vulnerability assessment:
+3. **Run the Script**: Execute the main script to start the vulnerability assessment:
     ```sh
     python cypher.py
     ```
